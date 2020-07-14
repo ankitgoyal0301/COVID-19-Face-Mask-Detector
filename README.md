@@ -38,4 +38,4 @@ Refer the full video inputs and outputs here:
 
 - Facing difficulties in detecting faces with low light and low quality webcams.
 - Dataset has images with people wearing only white colored masks :mask:
-- Face detection coul be improved.
+- Face detection can be improved.
