@@ -26,6 +26,10 @@
 
 ## Output of the model over Video file:
 
+<img src="https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/examples/Input%20GIF.gif" alt="Input" width="450" height="252">&emsp;&nbsp;<img src="https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Output/Output%20GIF.gif" alt="Output" width="450" height="252">
+
+Refer the full video inputs and outputs here:
+
 [Input Video](https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/examples/Mask%20Detection%20Test%20Video.mp4)
 
 [Output Video](https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Output/Mask-Detection-Video-Output.mp4)
